@@ -31,7 +31,7 @@ Belarusian National Technical University, engineer (2013-2018)
 
 ## CODE EXAMPLE
 Implement the function which takes an array containing the names of people that like an item. It must return the display text as shown in the examples:
-![task](image.png "task_codewars")
+![task](task.png "task_codewars")
 ```
 function likes(names) {
   let result = [...names];
@@ -57,9 +57,7 @@ function likes(names) {
 ---
 
 ## COURSES 
-JavaScript/Front-end Pre-School 2022Q4 ([RS School](https://rs.school/ "RS")) [certificate](https://app.rs.school/certificate/ajmq2cqd "certificate")
-
-
+JavaScript/Front-end Pre-School 2022Q4 [certificate](https://app.rs.school/certificate/ajmq2cqd "certificate") ([RS School](https://rs.school/ "RS"))
 Computer Science Basics ([EPAM](https://learn.epam.com/ "EPAM"))  
 Software Development Methodologies ([EPAM](https://learn.epam.com/ "EPAM"))   
 Introduction to Testing ([EPAM](https://learn.epam.com/ "EPAM"))   
