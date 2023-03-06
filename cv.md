@@ -56,7 +56,7 @@ function likes(names) {
 ---
 
 ## COURSES 
-JavaScript/Front-end Pre-School 2022Q4 (RS School)
+[JavaScript/Front-end Pre-School 2022Q4 (RS School)](https://app.rs.school/certificate/ajmq2cqd "certificate")
 Computer Science Basics (EPAM)  
 Software Development Methodologies (EPAM)  
 Introduction to Testing (EPAM)  
