@@ -1,1 +1,1 @@
-# rsschool-cv
+https://NotAnastasiya.github.io/rsschool-cv/
